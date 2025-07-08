@@ -1,3 +1,4 @@
-- Merge pull request #4 from ysm-hassio/update-libglib2.0-0-to-2.74.6-2+deb12u6
+# Changelog since v1.0.0
+- ⬆️ Update grafana/grafana to v12.0.2 (#2)
 
-Update debian_12/libglib2.0-0 to 2.74.6-2+deb12u6
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
