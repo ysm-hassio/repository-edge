@@ -37,19 +37,6 @@ https://github.com/ysm-hassio/repository-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Grafana][addon-grafana]
-
-![Latest Version][grafana-version-shield]
-![Supports armhf Architecture][grafana-armhf-shield]
-![Supports armv7 Architecture][grafana-armv7-shield]
-![Supports aarch64 Architecture][grafana-aarch64-shield]
-![Supports amd64 Architecture][grafana-amd64-shield]
-![Supports i386 Architecture][grafana-i386-shield]
-
-The open platform for beautiful analytics and monitoring
-
-[:books: Grafana add-on documentation][addon-doc-grafana]
-
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -64,7 +51,6 @@ You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Grafana][grafana-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -99,15 +85,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-grafana]: https://github.com/ysm-hassio/addon-grafana/tree/28d6db1
-[addon-doc-grafana]: https://github.com/ysm-hassio/addon-grafana/blob/28d6db1/README.md
-[grafana-issue]: https://github.com/ysm-hassio/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-28d6db1-blue.svg
-[grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[grafana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/ysm-hassio/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/ysm-hassio/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
