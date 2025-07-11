@@ -1,4 +1,7 @@
 # Changelog since v1.0.0
+- ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.17.0 (#5)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #6 from ysm-hassio/update-readme
 
 update docs and links 

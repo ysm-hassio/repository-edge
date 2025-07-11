@@ -99,10 +99,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-grafana]: https://github.com/ysm-hassio/addon-grafana/tree/731523f
-[addon-doc-grafana]: https://github.com/ysm-hassio/addon-grafana/blob/731523f/README.md
+[addon-grafana]: https://github.com/ysm-hassio/addon-grafana/tree/afd5549
+[addon-doc-grafana]: https://github.com/ysm-hassio/addon-grafana/blob/afd5549/README.md
 [grafana-issue]: https://github.com/ysm-hassio/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-731523f-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-afd5549-blue.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
