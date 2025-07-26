@@ -1,5 +1,5 @@
 name: Grafana
-version: 994fc3a
+version: 0dd9a2a
 slug: grafana
 description: The open platform for beautiful analytics and monitoring
 url: https://github.com/ysm-hassio/addon-grafana

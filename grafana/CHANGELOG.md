@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #7 from ysm-hassio/renovate/grafana-grafana-image-renderer-4.x
+
+⬆️ Update grafana/grafana-image-renderer to v4 
+- ⬆️ Update grafana/grafana-image-renderer to v4 
 - ⬆️ Update grafana/grafana to v12.1.0 (#8)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
