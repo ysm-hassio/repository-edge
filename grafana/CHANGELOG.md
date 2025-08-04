@@ -1,4 +1,7 @@
 # Changelog since v1.0.0
+- ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.18.2 (#10)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana-image-renderer to v4.0.10 (#11)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
