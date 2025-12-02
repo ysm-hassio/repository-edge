@@ -56,6 +56,6 @@ This repository is a fork maintained independently with the following additions:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-eb5b7cb-blue.svg
-[release]: https://github.com/ysm-hassio/addon-grafana/tree/eb5b7cb
+[release-shield]: https://img.shields.io/badge/version-d6f88ee-blue.svg
+[release]: https://github.com/ysm-hassio/addon-grafana/tree/d6f88ee
 [screenshot]: https://github.com/ysm-hassio/addon-grafana/raw/main/images/screenshot.png
