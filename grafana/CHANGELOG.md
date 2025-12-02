@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #15 from ysm-hassio/renovate/grafana-grafana-image-renderer-4.x
+
+⬆️ Update grafana/grafana-image-renderer to v4.1.5 
+- ⬆️ Update grafana/grafana-image-renderer to v4.1.5 
 - Merge pull request #13 from ysm-hassio/renovate/victoriametrics-victoriametrics-datasource-0.x
 
 ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.19.7 
