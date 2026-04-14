@@ -1,4 +1,7 @@
 # Changelog since v2.0.0
+- ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.23.4 (#32)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana to v12.4.3 (#33)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
