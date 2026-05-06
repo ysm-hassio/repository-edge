@@ -1,4 +1,8 @@
 # Changelog since v2.0.0
+- Merge pull request #35 from ysm-hassio/renovate/victoriametrics-victoriametrics-datasource-0.x
+
+⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.24.0 
+- ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.24.0 
 - ⬆️ Update VictoriaMetrics/victoriametrics-datasource to v0.23.4 (#32)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
